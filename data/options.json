@@ -1,0 +1,7 @@
+[
+  {"id": "OPT_L4_RES", "libelle": "Réseaux", "promotion_parente": "L4", "effectif": 30},
+  {"id": "OPT_L4_IL", "libelle": "Ingénierie Logicielle", "promotion_parente": "L4", "effectif": 30},
+  {"id": "OPT_L4_SEC", "libelle": "Sécurité Informatique", "promotion_parente": "L4", "effectif": 20},
+  {"id": "OPT_L4_ROB", "libelle": "Robotique", "promotion_parente": "L4", "effectif": 15},
+  {"id": "OPT_L4_DAS", "libelle": "Data Science", "promotion_parente": "L4", "effectif": 15}
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "LC1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "LP1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "MA1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "VP1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "AL1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "RM1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "LM1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "FR1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "AN1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L1",
+        "id_cours": "IB1",
+        "id_groupe": "L1"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "BD2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "SQ2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "JV2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "MR2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "SE2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "AM2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "CS2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "GI2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "ST2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L2",
+        "id_cours": "CL2",
+        "id_groupe": "L2"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "AI3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "AT3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "OR3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "MR3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "RH3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "UM3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "SI3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "CE3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "MO3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L3",
+        "id_cours": "TL3",
+        "id_groupe": "L3"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "ML4C",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "ML4R",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "CP4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "GL4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "RO4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "PM4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "AP4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "EC4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Vendredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L4",
+        "id_cours": "OC4",
+        "id_groupe": "L4"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "AR4R",
+        "id_groupe": "OPT_L4_RES"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "CA4R",
+        "id_groupe": "OPT_L4_RES"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "AT4R",
+        "id_groupe": "OPT_L4_RES"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "RT4R",
+        "id_groupe": "OPT_L4_RES"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "AB4I",
+        "id_groupe": "OPT_L4_IL"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "CS4I",
+        "id_groupe": "OPT_L4_IL"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "PA4I",
+        "id_groupe": "OPT_L4_IL"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "IC4I",
+        "id_groupe": "OPT_L4_IL"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L5",
+        "id_cours": "MS4S",
+        "id_groupe": "OPT_L4_SEC"
+    },
+    {
+        "jour": "Lundi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L5",
+        "id_cours": "CS4S",
+        "id_groupe": "OPT_L4_SEC"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "08h00-12h00",
+        "id_salle": "AUD-L5",
+        "id_cours": "CC4S",
+        "id_groupe": "OPT_L4_SEC"
+    },
+    {
+        "jour": "Mardi",
+        "creneau": "13h00-17h00",
+        "id_salle": "AUD-L5",
+        "id_cours": "SS4S",
+        "id_groupe": "OPT_L4_SEC"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "PJ4R",
+        "id_groupe": "OPT_L4_ROB"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "MC4R",
+        "id_groupe": "OPT_L4_ROB"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "CS4R",
+        "id_groupe": "OPT_L4_ROB"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MACH",
+        "id_cours": "PR4R",
+        "id_groupe": "OPT_L4_ROB"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "ER4D",
+        "id_groupe": "OPT_L4_DAS"
+    },
+    {
+        "jour": "Mercredi",
+        "creneau": "13h00-17h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "CS4D",
+        "id_groupe": "OPT_L4_DAS"
+    },
+    {
+        "jour": "Jeudi",
+        "creneau": "08h00-12h00",
+        "id_salle": "SALLE-MGT",
+        "id_cours": "IT4D",
+        "id_groupe": "OPT_L4_DAS"
+    }
+]

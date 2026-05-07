@@ -1,0 +1,42 @@
+[
+    {
+        "id": "AUD-L1",
+        "designation": "Auditoire principal - Licence 1",
+        "capacite": 900
+    },
+    {
+        "id": "AUD-L2",
+        "designation": "Auditoire principal - Licence 2",
+        "capacite": 500
+    },
+    {
+        "id": "AUD-L3",
+        "designation": "Auditoire principal - Licence 3",
+        "capacite": 300
+    },
+    {
+        "id": "AUD-L4",
+        "designation": "Auditoire principal - Licence 4",
+        "capacite": 150
+    },
+    {
+        "id": "SALLE-MACH",
+        "designation": "Salle de machines (TP)",
+        "capacite": 100
+    },
+    {
+        "id": "SALLE-MGT",
+        "designation": "Salle de management & marketing",
+        "capacite": 100
+    },
+    {
+        "id": "AUD-L5",
+        "designation": "Test",
+        "capacite": 4000
+    },
+    {
+        "id": "AUD-M1",
+        "designation": "Auditoire Master 1",
+        "capacite": 50
+    }
+]

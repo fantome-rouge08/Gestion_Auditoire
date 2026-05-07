@@ -1,0 +1,27 @@
+[
+    {
+        "id": "L1",
+        "libelle": "Licence 1",
+        "effectif": 800
+    },
+    {
+        "id": "L2",
+        "libelle": "Licence 2",
+        "effectif": 400
+    },
+    {
+        "id": "L3",
+        "libelle": "Licence 3",
+        "effectif": 240
+    },
+    {
+        "id": "L4",
+        "libelle": "Licence 4",
+        "effectif": 110
+    },
+    {
+        "id": "M1",
+        "libelle": "Master 1",
+        "effectif": 70
+    }
+]

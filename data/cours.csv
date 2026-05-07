@@ -1,0 +1,62 @@
+LC1,"Langage C",25,promotion,L1
+LP1,"Langage Python",25,promotion,L1
+MA1,"Mathématiques pour Informaticien",25,promotion,L1
+VP1,"Valeurs, principes et symbole de la RDC",25,promotion,L1
+AL1,"Algorithme 1",25,promotion,L1
+RM1,"Introduction à la Recherche et méthodologie du travail",25,promotion,L1
+LM1,"Logique mathématique et structures algébriques",25,promotion,L1
+FR1,Français,25,promotion,L1
+AN1,"Anglais 1",25,promotion,L1
+IB1,"Informatique et bureautique",25,promotion,L1
+HR1,"Histoire de la Révélation Biblique",25,promotion,L1
+PJ1,"Projet 1",25,promotion,L1
+BD2,"Base de données",25,promotion,L2
+SQ2,"Langage SQL",25,promotion,L2
+JV2,"Langage de programmation objet (JAVA)",25,promotion,L2
+MR2,"Méthodes Merise",25,promotion,L2
+SE2,"Système d’exploitation",25,promotion,L2
+AM2,"Algorithme et méthodes de programmation",25,promotion,L2
+CS2,"Comptabilité des Sociétés",25,promotion,L2
+GI2,"Géométrie pour Ingénieur Informaticien",25,promotion,L2
+ST2,Statistique,25,promotion,L2
+CL2,"Circuits Logiques",25,promotion,L2
+PJ2,"Projet 2",25,promotion,L2
+AI3,"Introduction à l'Intelligence Artificielle",25,promotion,L3
+AT3,"Anglais Techniques 3",25,promotion,L3
+OR3,"Technique de Base données (Oracle)",25,promotion,L3
+MR3,"Méthodes de Recherche en Informatiques",25,promotion,L3
+RH3,"Gestion des Ressources Humaines",25,promotion,L3
+UM3,"Modélisation Objet (UML)",25,promotion,L3
+SI3,"Sécurité Informatique",25,promotion,L3
+CE3,"Commerce Electronique",25,promotion,L3
+MO3,"Maintenance des Ordinateurs",25,promotion,L3
+TL3,"Télématique 1",25,promotion,L3
+AA3,"Algorithme Avancé",25,promotion,L3
+ML4C,"Machine Learning Apprentissage Supervisé (Classification)",25,promotion,L4
+ML4R,"Machine Learning Apprentissage Supervisé (Régression)",25,promotion,L4
+CP4,"Méthode de conduite des projets informatiques",25,promotion,L4
+GL4,"Génie logiciel",25,promotion,L4
+RO4,"Recherche Opérationnelle",25,promotion,L4
+PM4,"Programmation mobile",25,promotion,L4
+AP4,"Anglais professionnel",25,promotion,L4
+EC4,"Ethique chrétienne",25,promotion,L4
+OC4,"Objets connectés",25,promotion,L4
+AR4R,"Administration système et réseaux",25,option,OPT_L4_RES
+CA4R,"Conception des architectures réseaux",25,option,OPT_L4_RES
+AT4R,"Atelier réseaux et télécom",25,option,OPT_L4_RES
+RT4R,"Réseaux de télécommunications",25,option,OPT_L4_RES
+AB4I,"Administration des bases de données",25,option,OPT_L4_IL
+CS4I,"Conceptions des systèmes d'informations (UP)",25,option,OPT_L4_IL
+PA4I,"Programmation avancée",25,option,OPT_L4_IL
+IC4I,"Introduction à la cryptologie",25,option,OPT_L4_IL
+MS4S,"Méthode de sécurisation et détection des intrusions",25,option,OPT_L4_SEC
+CS4S,"Conceptions des systèmes d'informations (UP)",25,option,OPT_L4_SEC
+CC4S,"Cryptographie avancée et Codage",25,option,OPT_L4_SEC
+SS4S,"Sécurité des systèmes d’exploitation",25,option,OPT_L4_SEC
+PJ4R,"Programmation jeu vidéo",25,option,OPT_L4_ROB
+MC4R,Mécatronique,25,option,OPT_L4_ROB
+CS4R,"Conception des systèmes intelligents",25,option,OPT_L4_ROB
+PR4R,"Programmation des robots intelligents",25,option,OPT_L4_ROB
+ER4D,"Ethique et Régulation dans la data science",25,option,OPT_L4_DAS
+CS4D,"Conception des systèmes intelligents",25,option,OPT_L4_DAS
+IT4D,"Introduction au time series analysis",25,option,OPT_L4_DAS

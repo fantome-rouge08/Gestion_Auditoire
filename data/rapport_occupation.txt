@@ -1,0 +1,7 @@
+AUD-L1 : 10 occupés, 0 libres (100%)
+AUD-L2 : 10 occupés, 0 libres (100%)
+AUD-L3 : 10 occupés, 0 libres (100%)
+AUD-L4 : 9 occupés, 1 libres (90%)
+SALLE-MACH : 8 occupés, 2 libres (80%)
+SALLE-MGT : 7 occupés, 3 libres (70%)
+AUD-M1 : 4 occupés, 6 libres (40%)
